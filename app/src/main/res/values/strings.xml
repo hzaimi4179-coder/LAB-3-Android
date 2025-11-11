@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FormNav</string>
+
+    <!-- Écran 1 -->
+    <string name="title_form">Navigation</string>
+    <string name="label_nom">Nom &amp; Prénom</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_adresse">Adresse</string>
+    <string name="label_ville">Ville</string>
+    <string name="hint_nom">Ex : LACHGAR Mohamed</string>
+    <string name="hint_email">Ex : user@gmail.com</string>
+    <string name="hint_phone">Ex : +212676000000</string>
+    <string name="hint_adresse">Ex : 23, Hay Salam ...</string>
+    <string name="hint_ville">Ex : Agadir</string>
+    <string name="btn_envoyer">Envoyer</string>
+
+    <!-- Écran 2 -->
+    <string name="title_screen2">Screen2</string>
+    <string name="btn_retour">Retour</string>
+
+    <!-- Messages -->
+    <string name="err_nom_email">Nom et Email sont obligatoires.</string>
+    <string name="err_email_invalide">Email invalide.</string>
+</resources>
